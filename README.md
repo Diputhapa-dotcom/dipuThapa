@@ -23,8 +23,10 @@ I'm currently learning
 
 
 
+# Hi 👋, I'm Dipu Thapa
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diputhapa-dotcom/Diputhapa-dotcom/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diputhapa-dotcom/Diputhapa-dotcom/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Diputhapa-dotcom/dipuThapa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Diputhapa-dotcom/Diputhapa-dotcom/output/github-snake.svg" />
 </picture>
